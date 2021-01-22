@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"QuizApp","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"QuizApp","l":"QuizApp()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"QuizApp","l":"setNewQuestion()"},{"p":"<Unnamed>","c":"QuizApp","l":"start(Stage)","url":"start(javafx.stage.Stage)"}]
